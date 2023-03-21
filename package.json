@@ -30,6 +30,7 @@
     "solid-transition-group": "^0.2.0"
   },
   "devDependencies": {
+    "typescript": "^5.0.2",
     "vite": "^4.2.1",
     "vite-plugin-solid": "^2.6.1"
   }
