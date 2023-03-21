@@ -1,0 +1,36 @@
+{
+  "name": "solidjs-simple-galery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TecHunter/solidjs-simple-galery.git"
+  },
+  "keywords": [
+    "solidjs",
+    "vite"
+  ],
+  "author": "abaschen",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/TecHunter/solidjs-simple-galery/issues"
+  },
+  "homepage": "https://github.com/TecHunter/solidjs-simple-galery#readme",
+  "dependencies": {
+    "@hope-ui/solid": "^0.6.7",
+    "@stitches/core": "^1.2.8",
+    "babel-preset-solid": "^1.6.13",
+    "solid-js": "^1.6.15",
+    "solid-transition-group": "^0.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1",
+    "vite-plugin-solid": "^2.6.1"
+  }
+}
